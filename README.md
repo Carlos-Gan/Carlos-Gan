@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gandara 👋</h1>
 
 <p align="center">
-  <strong>Computer Systems Engineering Student · Android Developer · Software Enthusiast</strong>
+  <strong>Computer Systems Engineering Student · Android & Software Developer</strong>
 </p>
 
 <p align="center">
@@ -25,42 +25,119 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Systems Engineering student focused on **software development, Android applications, and modern user interfaces**.
+I'm a Computer Systems Engineering student, interested in building reliable software and user-focused applications.
 
-I enjoy building projects from the ground up, experimenting with new technologies, and turning ideas into useful applications.
+I enjoy taking ideas from concept to working products, with a current focus on **Android development, modern web applications, application architecture, and UI/UX**.
 
-Currently, I'm especially interested in:
+## 🚀 What I Build
 
-- 📱 Android development with **Kotlin, Jetpack Compose & Material 3**
-- 🌐 Modern web development with **React & TypeScript**
-- 🗄️ Local data persistence and application architecture
-- 🎨 UI/UX and interactive interfaces
-- 🐧 Linux and open-source software
-- 🚀 Building projects that solve real problems
+- 📱 **Android applications** — Kotlin, Jetpack Compose, Material 3, Room
+- 🌐 **Web applications** — React, TypeScript, Vite, Firebase
+- 🗄️ **Application architecture & data** — MVVM, Clean Architecture, local persistence, REST APIs
+- 🎨 **UI/UX** — responsive and interactive interfaces
+- 🐧 **Development tools & environments** — Linux, Git, GitHub
 
 ---
 
-## 🚀 What I'm Working On
+## 📌 Featured Projects
 
-### 📱 Android Development
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Building modern Android applications using:
+### 📅 FlowSchedule
 
-**Kotlin · Jetpack Compose · Material 3 · Room · Coroutines**
+A native Android application designed to organize academic life in one place.
 
-I'm particularly interested in clean UI architecture, offline-first applications, local databases, and useful everyday tools.
+**Features**
+- 📚 Class schedule management
+- 📝 Assignment tracking
+- 📝 Exam tracking
+- 📊 Grades & GPA calculation
+- 📅 Daily & weekly views
+- ⚠️ Schedule conflict detection
+- ✏️ Create, edit & delete classes
 
-### 🌐 Web Development
+**Stack**
 
-Exploring modern frontend development with:
+`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
 
-**React · TypeScript · Vite · Tailwind CSS**
+<a href="https://github.com/Carlos-Gan/FlowSchedule">
+  View Repository →
+</a>
 
-Currently focusing on building responsive interfaces and interactive web applications.
+</td>
 
-### 🐧 Linux
+<td width="50%" valign="top">
 
-Daily-driving **Linux with CachyOS, GNOME & Wayland**, while experimenting with different tools and workflows.
+### 🚌 Q-Ruta
+
+A transportation and tourism platform designed for **Durango, Mexico**.
+
+Developed during a **24-hour university hackathon** to explore digital solutions for public transportation.
+
+**Features**
+- 📍 Nearby route discovery
+- 🚌 Route visualization
+- 📊 Congestion & occupancy monitoring
+- 💳 QR-based payment concept
+- 🗺️ Interactive maps
+
+**Stack**
+
+`React` · `TypeScript` · `Vite` · `Leaflet` · `Firebase` · `Tailwind CSS`
+
+<a href="https://github.com/Carlos-Gan/q-ruta">
+  View Repository →
+</a>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### ✈️ TravelFund
+
+An Android application for planning trips and tracking travel finances.
+
+**Features**
+- 💰 Travel savings tracking
+- 📊 Financial statistics
+- 🧾 Expense tracking
+- ✈️ Trip management
+- ⚙️ Custom settings
+
+**Stack**
+
+`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
+
+<a href="https://github.com/Carlos-Gan/TravelFund">
+  View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 More Projects
+
+I'm continuously experimenting with new ideas across:
+
+- 📱 Android development
+- 🌐 Web applications
+- 🎨 UI/UX
+- 🗄️ Databases
+- 🐧 Linux
+- 🤖 Automation & experimentation
+
+<a href="https://github.com/Carlos-Gan?tab=repositories">
+  Explore all repositories →
+</a>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -93,7 +170,7 @@ Daily-driving **Linux with CachyOS, GNOME & Wayland**, while experimenting with 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -104,109 +181,11 @@ Daily-driving **Linux with CachyOS, GNOME & Wayland**, while experimenting with 
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚌 Q-Ruta
-
-A transportation and tourism platform designed for **Durango, Mexico**.
-
-The project focuses on helping users discover nearby routes while providing tools for monitoring transportation activity.
-
-**Features**
-- 📍 Nearby route discovery
-- 🚌 Route visualization
-- 📊 Congestion & occupancy monitoring
-- 💳 QR-based payment concept
-- 🗺️ Interactive maps
-
-**Stack**
-
-`React` · `TypeScript` · `Vite` · `Leaflet` · `Firebase` · `Tailwind CSS` · `Chart.js` · `Framer Motion`
-
-> Built during a one-day hackathon.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📅 FlowSchedule
-
-An Android application designed to organize academic life in one place.
-
-**Features**
-- 📚 Class schedule
-- 📝 Assignments
-- 📝 Exams
-- 📊 Grades & GPA
-- 📅 Daily & weekly views
-- ⚠️ Schedule conflict detection
-- ✏️ Create, edit & delete classes
-
-**Stack**
-
-`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### ✈️ TravelFund
-
-An Android application for planning and tracking savings for trips.
-
-**Features**
-- 💰 Travel savings tracking
-- 📊 Financial statistics
-- 🧾 Expense tracking
-- ✈️ Trip management
-- ⚙️ Custom settings
-
-**Stack**
-
-`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 More Projects
-
-I'm continuously working on new projects involving:
-
-- 📱 Android development
-- 🌐 Web applications
-- 🎨 UI/UX
-- 🗄️ Databases
-- 🐧 Linux
-- 🤖 Automation & experimentation
-
-Check out my repositories to see what I'm currently building.
-
-</td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Gan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Gan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Gan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -218,11 +197,15 @@ Check out my repositories to see what I'm currently building.
     LinkedIn
   </a>
   ·
+  <a href="mailto:gandarac052@gmail.com">
+    Email
+  </a>
+  ·
   <a href="https://github.com/Carlos-Gan">
     GitHub
   </a>
 </p>
 
 <p align="center">
-  <i>Always learning, building, and experimenting with new ideas.</i>
+  <i>Building useful software, learning continuously, and turning ideas into working products.</i>
 </p>
