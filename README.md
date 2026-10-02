@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  🇲🇽 Instituto Tecnológico de Durango · Mexico
-</p>
-
-<p align="center">
   <a href="https://github.com/Carlos-Gan">
     <img src="https://img.shields.io/badge/GitHub-Carlos--Gan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
