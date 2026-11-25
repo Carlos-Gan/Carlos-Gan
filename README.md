@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gandara 👋</h1>
 
 <p align="center">
-  <strong>Computer Systems Engineering Student · Android & Software Developer</strong>
+  <strong>Computer Systems Engineering Student · Software Developer</strong>
 </p>
 
 <p align="center">
@@ -23,11 +23,12 @@
 
 I'm a Computer Systems Engineering student, interested in building reliable software and user-focused applications.
 
-I enjoy taking ideas from concept to working products, with a current focus on **Android development, modern web applications, application architecture, and UI/UX**.
+I enjoy taking ideas from concept to working products, with a current focus on **desktop applications, Android development, modern web applications, application architecture, and UI/UX**.
 
 ## 🚀 What I Build
 
 - 📱 **Android applications** — Kotlin, Jetpack Compose, Material 3, Room
+- 🖥️ **Desktop applications** — Electron, React, SQLite
 - 🌐 **Web applications** — React, TypeScript, Vite, Firebase
 - 🗄️ **Application architecture & data** — MVVM, Clean Architecture, local persistence, REST APIs
 - 🎨 **UI/UX** — responsive and interactive interfaces
@@ -38,6 +39,47 @@ I enjoy taking ideas from concept to working products, with a current focus on *
 ## 📌 Featured Projects
 
 <table>
+  <tr>
+    <td width="100%" valign="top">
+
+### 🎥 Vendeo
+
+A project developed for Hackathon 2026.
+
+<a href="https://github.com/Carlos-Gan/Vendeo-Hackathon26">
+  View Repository →
+</a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌙 Luma
+
+A project I'm currently developing.
+
+<a href="https://github.com/Carlos-Gan/Luma">
+  View Repository →
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Financea
+
+A personal finance management tool designed to simplify financial tracking and budgeting.
+
+**Stack**
+
+`Dart`
+
+<a href="https://github.com/Carlos-Gan/Financea">
+  View Repository →
+</a>
+
+</td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
 
