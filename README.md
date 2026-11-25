@@ -40,18 +40,38 @@ I enjoy taking ideas from concept to working products, with a current focus on *
 
 ### 🎥 Vendeo
 
-A project developed for Hackathon 2026.
+A web dashboard prototype that helps local businesses manage online orders, in-store sales, and inventory from one place.
+
+**Features**
+- 🛍️ Live order board with order status tracking
+- 📦 Product catalog and inventory management
+- 🧾 In-store sales with automatic stock updates
+- 🏷️ Product bundles with promotional pricing and expiration dates
+- 📈 Restocking forecasts based on recent sales
+- 🏬 Multi-store data structure
+
+**Stack:** `React` · `Vite` · `Tailwind CSS` · `Firebase Authentication` · `Cloud Firestore`
 
 [View Repository →](https://github.com/Carlos-Gan/Vendeo-Hackathon26)
-
 ---
 
 ### 🌙 Luma
 
-A project I'm currently developing.
+A lightweight, cross-platform desktop photo viewer for Windows and Linux, with special support for Samsung phone HEIC/HEIF photos.
+
+**Features**
+- 🖼️ Add photos through the file picker or drag and drop
+- 🔍 Zoom, pan, and browse image collections
+- 📷 View JPG/JPEG, PNG, WebP, and HEIC/HEIF images
+- ℹ️ Inspect image format, dimensions, file size, and modification date
+- 📍 Read EXIF GPS coordinates and optionally view the location on OpenStreetMap
+- 🔄 Convert copies to JPG, PNG, or WebP without changing the original
+
+**Stack:** `React` · `TypeScript` · `Vite` · `Tauri 2` · `Rust` · `image` · `heif-oxide` · `kamadak-exif`
+
+**Status:** In development. Photos remain in the current app session and are not yet saved to a persistent library. HEIC/HEIF processing currently supports files up to 80 MB and 64 megapixels.
 
 [View Repository →](https://github.com/Carlos-Gan/Luma)
-
 ---
 
 ### 💰 Financea
