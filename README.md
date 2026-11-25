@@ -38,50 +38,31 @@ I enjoy taking ideas from concept to working products, with a current focus on *
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-
 ### 🎥 Vendeo
 
 A project developed for Hackathon 2026.
 
-<a href="https://github.com/Carlos-Gan/Vendeo-Hackathon26">
-  View Repository →
-</a>
+[View Repository →](https://github.com/Carlos-Gan/Vendeo-Hackathon26)
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🌙 Luma
 
 A project I'm currently developing.
 
-<a href="https://github.com/Carlos-Gan/Luma">
-  View Repository →
-</a>
+[View Repository →](https://github.com/Carlos-Gan/Luma)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 💰 Financea
 
 A personal finance management tool designed to simplify financial tracking and budgeting.
 
-**Stack**
+**Stack:** `Dart`
 
-`Dart`
+[View Repository →](https://github.com/Carlos-Gan/Financea)
 
-<a href="https://github.com/Carlos-Gan/Financea">
-  View Repository →
-</a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 📅 FlowSchedule
 
@@ -96,23 +77,15 @@ A native Android application designed to organize academic life in one place.
 - ⚠️ Schedule conflict detection
 - ✏️ Create, edit & delete classes
 
-**Stack**
+**Stack:** `Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
 
-`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
+[View Repository →](https://github.com/Carlos-Gan/FlowSchedule)
 
-<a href="https://github.com/Carlos-Gan/FlowSchedule">
-  View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🚌 Q-Ruta
 
-A transportation and tourism platform designed for **Durango, Mexico**.
-
-Developed during a **24-hour university hackathon** to explore digital solutions for public transportation.
+A transportation and tourism platform designed for **Durango, Mexico**. Developed during a **24-hour university hackathon** to explore digital solutions for public transportation.
 
 **Features**
 - 📍 Nearby route discovery
@@ -121,19 +94,11 @@ Developed during a **24-hour university hackathon** to explore digital solutions
 - 💳 QR-based payment concept
 - 🗺️ Interactive maps
 
-**Stack**
+**Stack:** `React` · `TypeScript` · `Vite` · `Leaflet` · `Firebase` · `Tailwind CSS`
 
-`React` · `TypeScript` · `Vite` · `Leaflet` · `Firebase` · `Tailwind CSS`
+[View Repository →](https://github.com/Carlos-Gan/q-ruta)
 
-<a href="https://github.com/Carlos-Gan/q-ruta">
-  View Repository →
-</a>
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### ✈️ TravelFund
 
@@ -146,36 +111,17 @@ An Android application for planning trips and tracking travel finances.
 - ✈️ Trip management
 - ⚙️ Custom settings
 
-**Stack**
+**Stack:** `Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
 
-`Kotlin` · `Jetpack Compose` · `Material 3` · `Room`
+[View Repository →](https://github.com/Carlos-Gan/TravelFund)
 
-<a href="https://github.com/Carlos-Gan/TravelFund">
-  View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🔧 More Projects
 
-I'm continuously experimenting with new ideas across:
+I'm continuously experimenting with new ideas across Android development, web applications, UI/UX, databases, Linux, and automation.
 
-- 📱 Android development
-- 🌐 Web applications
-- 🎨 UI/UX
-- 🗄️ Databases
-- 🐧 Linux
-- 🤖 Automation & experimentation
-
-<a href="https://github.com/Carlos-Gan?tab=repositories">
-  Explore all repositories →
-</a>
-
-</td>
-  </tr>
-</table>
+[Explore all repositories →](https://github.com/Carlos-Gan?tab=repositories)
 
 ---
 
@@ -247,3 +193,5 @@ I'm continuously experimenting with new ideas across:
 <p align="center">
   <i>Building useful software, learning continuously, and turning ideas into working products.</i>
 </p>
+
+
